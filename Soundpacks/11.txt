@@ -1,0 +1,7 @@
+do 1.wav
+re 1.wav
+mi 1.wav
+fa 1.wav
+sol 1.wav
+la 1.wav
+si 1.wav
